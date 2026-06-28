@@ -1,0 +1,50 @@
+first_name,last_name,gender,email,phone,country,state,age,loyalty_points,date_joining
+John,Smith,M,john.smith@email.com,555-1234,USA,CA,25,1200,2021-05-12
+jane,Doe,f,JANE.DOE@EMAIL.COM,5551235,usa,california,thirty,800,12/06/2020
+"Mike,""O'Neil"",M,mike.oneil@email,555-1236,United States,NY,45,,2020-13-01"
+,Johnson,F,sam.j@email.com,,Canada,ON,34,950,2019-11-05
+Emily,Davis,f,emily.davis@email.com,555-1238,canada,Ontario,29,,2021/07/15
+"Chris,Brown,,chris.brown@email.com,""555 1239"",Mexico,CDMX,41,1100,15-08-2020"
+Anna,Smith,F,anna.smith@email.com,5551240,USA,TX,22,500,2022-02-30
+Tom,Williams,m,tom.williams@email.com,555-1241,US,Texas,27,700,2021-03-10
+Sara,Miller,F,sara.miller@email.com,555-1242,Canada,QC,31,1200,2020-01-25
+David,Wilson,M,david.wilson@email.com,555-1243,Mexico,Jalisco,,400,2018-06-14
+Laura,Moore,f,laura.moore@email,555-1244,USA,FL,36,900,2021-09-09
+James,Taylor,M,james.taylor@email.com,555-1245,United States,Florida,44,1300,2019-04-01
+Linda,Anderson,F,linda.anderson@email.com,5551246,Canada,BC,28,1000,2020-10-20
+"Robert,Thomas,M,robert.thomas@email.com,,Mexico,""Nuevo Leon"",39,850,2017-12-11"
+Patricia,Jackson,F,pat.jackson@email.com,555-1248,USA,WA,33,,2021-11-31
+Michael,White,M,michael.white@email.com,555-1249,US,Washington,55,1500,2018-05-05
+Barbara,Harris,f,barbara.harris@email.com,555-1250,Canada,Alberta,47,700,2022-01-15
+William,Martin,M,william.martin@email.com,555-1251,Mexico,Yucatan,52,300,2021-06-18
+Elizabeth,Thompson,F,elizabeth.t@email.com,555-1252,USA,IL,26,600,2020-02-29
+Richard,Garcia,,richard.garcia@email.com,555-1253,United States,Illinois,,1100,2019-07-07
+Joseph,Martinez,M,joseph.m@email.com,555-1254,Canada,MB,37,950,2021-13-01
+Thomas,Robinson,M,thomas.r@email.com,555-1255,Mexico,CDMX,42,,2020-03-03
+Charles,Clark,M,charles.clark@email,5551256,USA,OH,48,1200,2018-08-22
+Christopher,Rodriguez,M,chris.r@email.com,555-1257,US,Ohio,29,850,2022-04-12
+Daniel,Lewis,M,daniel.lewis@email.com,555-1258,Canada,NS,31,700,2021-06-31
+Matthew,Lee,M,matthew.lee@email.com,555-1259,Mexico,Sonora,27,400,2019-09-09
+Anthony,Walker,M,anthony.walker@email.com,555-1260,USA,GA,35,950,2020-12-12
+Mark,Hall,M,mark.hall@email.com,555-1261,United States,Georgia,,500,2018-03-15
+Donald,Allen,M,donald.allen@email.com,555-1262,Canada,NB,46,1100,2021-05-20
+Steven,Young,M,steven.young@email.com,555-1263,Mexico,Puebla,38,800,2019-11-11
+Paul,Hernandez,M,paul.h@email.com,555-1264,USA,AZ,41,700,2020-07-07
+Andrew,King,M,andrew.king@email.com,555-1265,US,Arizona,33,600,2022-02-02
+Joshua,Wright,M,joshua.w@email.com,555-1266,Canada,SK,30,900,2021-01-01
+Kenneth,Lopez,M,kenneth.lopez@email.com,555-1267,Mexico,Chiapas,36,300,2019-10-10
+Kevin,Hill,M,kevin.hill@email.com,555-1268,USA,PA,28,500,2020-04-04
+Brian,Scott,M,brian.scott@email.com,555-1269,United States,Pennsylvania,34,1000,2018-06-06
+George,Green,M,george.green@email.com,555-1270,Canada,PE,45,1200,2022-08-08
+Edward,Adams,M,edward.adams@email.com,555-1271,Mexico,Durango,39,400,2019-02-02
+Ronald,Baker,M,ronald.baker@email.com,555-1272,USA,NV,50,800,2021-09-09
+Timothy,Gonzalez,M,tim.g@email.com,555-1273,US,Nevada,44,950,2020-05-05
+Jason,Nelson,M,jason.nelson@email.com,555-1274,Canada,NL,31,600,2019-03-03
+Jeffrey,Carter,M,jeffrey.c@email.com,555-1275,Mexico,Guerrero,37,700,2021-12-12
+Ryan,Mitchell,M,ryan.m@email.com,555-1276,USA,MI,29,500,2020-11-11
+Jacob,Perez,M,jacob.perez@email.com,555-1277,United States,Michigan,26,800,2018-01-01
+"Gary,Roberts,M,""gar y.roberts@email.com"",555-1278,Canada,NT,48,1000,2022-07-07"
+Nicholas,Turner,M,nick.turner@email.com,555-1279,Mexico,Oaxaca,35,300,2019-06-06
+Eric,Phillips,M,eric.phillips@email.com,555-1280,USA,CO,32,700,2021-03-03
+Stephen,Campbell,M,stephen.c@email.com,555-1281,US,Colorado,40,900,2020-10-10
+Larry,Parker,M,larry.parker@email.com,555-1282,Canada,YT,52,1100,2018-08-08

@@ -1,0 +1,39 @@
+,first_name,last_name,gender,email,phone,country,state,age,loyalty_points,date_joining,binary_gender,email_valid
+0,John,Smith,M,john.smith@email.com,5551234,United States of America,California,25,1200,2021-05-12,0,True
+1,Jane,Doe,F,jane.doe@email.com,5551235,United States of America,california,30,800,,1,True
+6,Anna,Smith,F,anna.smith@email.com,5551240,United States of America,Texas,22,500,,1,True
+7,Tom,Williams,M,tom.williams@email.com,5551241,United States of America,Texas,27,700,2021-03-10,0,True
+8,Sara,Miller,F,sara.miller@email.com,5551242,Canada,Quebec,31,1200,2020-01-25,1,True
+10,Laura,Moore,F,Unknown,5551244,United States of America,Florida,36,900,2021-09-09,1,False
+11,James,Taylor,M,james.taylor@email.com,5551245,United States of America,Florida,44,1300,2019-04-01,0,True
+12,Linda,Anderson,F,linda.anderson@email.com,5551246,Canada,British Columbia,28,1000,2020-10-20,1,True
+15,Michael,White,M,michael.white@email.com,5551249,United States of America,Washington,55,1500,2018-05-05,0,True
+16,Barbara,Harris,F,barbara.harris@email.com,5551250,Canada,Alberta,47,700,2022-01-15,1,True
+17,William,Martin,M,william.martin@email.com,5551251,Mexico,Yucatan,52,300,2021-06-18,0,True
+18,Elizabeth,Thompson,F,elizabeth.t@email.com,5551252,United States of America,Illinois,26,600,2020-02-29,1,True
+20,Joseph,Martinez,M,joseph.m@email.com,5551254,Canada,Manitoba,37,950,,0,True
+22,Charles,Clark,M,Unknown,5551256,United States of America,Ohio,48,1200,2018-08-22,0,False
+23,Christopher,Rodriguez,M,chris.r@email.com,5551257,United States of America,Ohio,29,850,2022-04-12,0,True
+24,Daniel,Lewis,M,daniel.lewis@email.com,5551258,Canada,Nova Scotia,31,700,,0,True
+25,Matthew,Lee,M,matthew.lee@email.com,5551259,Mexico,Sonora,27,400,2019-09-09,0,True
+26,Anthony,Walker,M,anthony.walker@email.com,5551260,United States of America,Georgia,35,950,2020-12-12,0,True
+28,Donald,Allen,M,donald.allen@email.com,5551262,Canada,New Brunswick,46,1100,2021-05-20,0,True
+29,Steven,Young,M,steven.young@email.com,5551263,Mexico,Puebla,38,800,2019-11-11,0,True
+30,Paul,Hernandez,M,paul.h@email.com,5551264,United States of America,Arizona,41,700,2020-07-07,0,True
+31,Andrew,King,M,andrew.king@email.com,5551265,United States of America,Arizona,33,600,2022-02-02,0,True
+32,Joshua,Wright,M,joshua.w@email.com,5551266,Canada,Saskatchewan,30,900,2021-01-01,0,True
+33,Kenneth,Lopez,M,kenneth.lopez@email.com,5551267,Mexico,Chiapas,36,300,2019-10-10,0,True
+34,Kevin,Hill,M,kevin.hill@email.com,5551268,United States of America,Pennsylvania,28,500,2020-04-04,0,True
+35,Brian,Scott,M,brian.scott@email.com,5551269,United States of America,Pennsylvania,34,1000,2018-06-06,0,True
+36,George,Green,M,george.green@email.com,5551270,Canada,Prince Edward Island,45,1200,2022-08-08,0,True
+37,Edward,Adams,M,edward.adams@email.com,5551271,Mexico,Durango,39,400,2019-02-02,0,True
+38,Ronald,Baker,M,ronald.baker@email.com,5551272,United States of America,Nevada,50,800,2021-09-09,0,True
+39,Timothy,Gonzalez,M,tim.g@email.com,5551273,United States of America,Nevada,44,950,2020-05-05,0,True
+40,Jason,Nelson,M,jason.nelson@email.com,5551274,Canada,Newfoundland and Labrador,31,600,2019-03-03,0,True
+41,Jeffrey,Carter,M,jeffrey.c@email.com,5551275,Mexico,Guerrero,37,700,2021-12-12,0,True
+42,Ryan,Mitchell,M,ryan.m@email.com,5551276,United States of America,Michigan,29,500,2020-11-11,0,True
+43,Jacob,Perez,M,jacob.perez@email.com,5551277,United States of America,Michigan,26,800,2018-01-01,0,True
+45,Nicholas,Turner,M,nick.turner@email.com,5551279,Mexico,Oaxaca,35,300,2019-06-06,0,True
+46,Eric,Phillips,M,eric.phillips@email.com,5551280,United States of America,Colorado,32,700,2021-03-03,0,True
+47,Stephen,Campbell,M,stephen.c@email.com,5551281,United States of America,Colorado,40,900,2020-10-10,0,True
+48,Larry,Parker,M,larry.parker@email.com,5551282,Canada,Yukon,52,1100,2018-08-08,0,True
